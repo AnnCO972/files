@@ -1,0 +1,38 @@
+<users xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<user>
+		<name>Alice</name>
+		<dateOfBirth>1990-05-17</dateOfBirth>
+		<notes><![CDATA[]]></notes>
+		<address>
+			<street>Main Street</street>
+			<streetNumber>123</streetNumber>
+			<postalCode>12345</postalCode>
+			<city>Springfield</city>
+			<country>USA</country>
+		</address>
+	</user>
+	<user>
+		<name>Bob</name>
+		<dateOfBirth>1985-08-23</dateOfBirth>
+		<notes>Some notes</notes>
+		<address>
+			<street>Second Ave</street>
+			<streetNumber>456</streetNumber>
+			<postalCode>67890</postalCode>
+			<city>Shelbyville</city>
+			<country>USA</country>
+		</address>
+	</user>
+	<user>
+		<name>Charlie</name>
+		<dateOfBirth i:nil="true" />
+		<notes>No date provided</notes>
+		<address>
+			<street>Third Blvd</street>
+			<streetNumber>789</streetNumber>
+			<postalCode>13579</postalCode>
+			<city>Capital City</city>
+			<country>USA</country>
+		</address>
+	</user>
+</users>
