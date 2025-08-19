@@ -36,7 +36,7 @@
 		</address>
 	</user>
 	<user>
-		<name>Anne</name>
+		<name>Anne-Claire</name>
 		<dateOfBirth>1996-06-06</dateOfBirth>
 		<notes>it's me</notes>
 		<address>
@@ -48,4 +48,5 @@
 		</address>
 	</user>
 </users>
+
 
