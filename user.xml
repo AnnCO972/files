@@ -35,4 +35,17 @@
 			<country>USA</country>
 		</address>
 	</user>
+	<user>
+		<name>Anne</name>
+		<dateOfBirth>1996-06-06</dateOfBirth>
+		<notes>it's me</notes>
+		<address>
+			<street>Argyle Avenue</street>
+			<streetNumber>469</streetNumber>
+			<postalCode>H3Y3B3</postalCode>
+			<city>Wstmount</city>
+			<country>CA</country>
+		</address>
+	</user>
 </users>
+
